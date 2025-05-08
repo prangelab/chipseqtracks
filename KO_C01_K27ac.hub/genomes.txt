@@ -1,0 +1,2 @@
+genome mm39
+trackDb mm39/trackDb.txt

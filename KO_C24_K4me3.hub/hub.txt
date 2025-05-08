@@ -1,0 +1,5 @@
+hub KO_C24_K4me3.hub
+shortLabel KO_C24_K4me3.hub
+longLabel KO_C24_K4me3.hub
+genomesFile genomes.txt
+email m.dewinther@amsterdamumc.nl

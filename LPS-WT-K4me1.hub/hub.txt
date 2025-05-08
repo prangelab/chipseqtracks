@@ -1,0 +1,5 @@
+hub LPS-WT-K4me1.hub
+shortLabel LPS-WT-K4me1.hub
+longLabel LPS-WT-K4me1.hub
+genomesFile genomes.txt
+email m.dewinther@amsterdamumc.nl

@@ -1,0 +1,33 @@
+track LPS-WT-K4me3.hub
+container multiWig
+noInherit on
+shortLabel LPS-WT-K4me3.hub
+longLabel LPS-WT-K4me3.hub
+type bigWig
+configurable on
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale on
+windowingFunction maximum
+smoothingWindow 2
+priority 1.4
+yLineMark 0
+yLineOnOff on
+maxHeightPixels 64:32:8
+
+track LPS-WT-K4me3-REP1_S373.filtered.bw.hub
+bigDataUrl KP-LPS-WT-K4me3-REP1_S373.filtered.bw
+shortLabel LPS-WT-K4me3-REP1_S373.filtered.bw.hub
+longLabel LPS-WT-K4me3-REP1_S373.filtered.bw.hub
+type bigWig
+parent LPS-WT-K4me3.hub
+color 238,0,0
+
+track LPS-WT-K4me3-REP2_S374.filtered.bw.hub
+bigDataUrl KP-LPS-WT-K4me3-REP2_S374.filtered.bw
+shortLabel LPS-WT-K4me3-REP2_S374.filtered.bw.hub
+longLabel LPS-WT-K4me3-REP2_S374.filtered.bw.hub
+type bigWig
+parent LPS-WT-K4me3.hub
+color 69,0,0

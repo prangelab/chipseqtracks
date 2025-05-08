@@ -1,0 +1,25 @@
+track KO_C01_K4me1.hub
+container multiWig
+noInherit on
+shortLabel KO_C01_K4me1.hub
+longLabel KO_C01_K4me1.hub
+type bigWig
+configurable on
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale on
+windowingFunction maximum
+smoothingWindow 2
+priority 1.4
+yLineMark 0
+yLineOnOff on
+maxHeightPixels 64:32:8
+
+track KO_C01_K4me1_REP1.hub
+bigDataUrl KP_KO_C01_K4me1_REP1_S397.filtered.bw
+shortLabel KO_C01_K4me1_REP1.hub
+longLabel KO_C01_K4me1_REP1.hub
+type bigWig
+parent KO_C01_K4me1.hub
+color 30,144,255

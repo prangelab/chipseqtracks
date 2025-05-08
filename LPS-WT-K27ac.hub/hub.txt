@@ -1,0 +1,5 @@
+hub LPS-WT-K27ac.hub
+shortLabel LPS-WT-K27ac.hub
+longLabel LPS-WT-K27ac.hub
+genomesFile genomes.txt
+email m.dewinther@amsterdamumc.nl
