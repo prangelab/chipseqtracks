@@ -22,7 +22,7 @@ shortLabel LPS-WT-K27ac-REP1_S371.filtered.bw.hub
 longLabel LPS-WT-K27ac-REP1_S371.filtered.bw.hub
 type bigWig
 parent LPS-WT-K27ac.hub
-color 218,165,32
+color 186, 138, 18
 
 track LPS-WT-K27ac-REP2_S372.filtered.bw.hub
 bigDataUrl KP-LPS-WT-K27ac-REP2_S372.filtered.bw
@@ -30,4 +30,4 @@ shortLabel LPS-WT-K27ac-REP2_S372.filtered.bw.hub
 longLabel LPS-WT-K27ac-REP2_S372.filtered.bw.hub
 type bigWig
 parent LPS-WT-K27ac.hub
-color 63,46,7
+color ,46,7

@@ -30,4 +30,4 @@ shortLabel LPS-WT-K4me1-REP2_S376.filtered.bw.hub
 longLabel LPS-WT-K4me1-REP2_S376.filtered.bw.hub
 type bigWig
 parent LPS-WT-K4me1.hub
-color 7,41,74
+color 13,114,214
